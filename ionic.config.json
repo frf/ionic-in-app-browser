@@ -1,0 +1,7 @@
+{
+  "name": "fabio-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
